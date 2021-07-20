@@ -1,10 +1,27 @@
 {
-  "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-clean-css": "^4.2.0",
-    "gulp-concat": "2.6.1",
-    "gulp-uglify": "3.0.0",
-    "node-sass": "^4.14.1",
-    "rimraf": "2.6.1"
+  "name": "mslearn-tailspin-spacegame-web",
+  "version": "1.0.0",
+  "description": "This project welcomes contributions and suggestions.  Most contributions require you to agree to a\r Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us\r the rights to use your contribution. For details, visit https://cla.microsoft.com.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantjoge/mslearn-tailspin-spacegame-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantjoge/mslearn-tailspin-spacegame-web/issues"
+  },
+  "homepage": "https://github.com/prashantjoge/mslearn-tailspin-spacegame-web#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^6.0.1",
+    "rimraf": "^3.0.2"
   }
 }
