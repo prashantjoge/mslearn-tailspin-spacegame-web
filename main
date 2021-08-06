@@ -1,0 +1,20 @@
+diff --git a/Tailspin.SpaceGame.Web/Views/Home/Index.cshtml b/Tailspin.SpaceGame.Web/Views/Home/Index.cshtml
+index dd0db2e..8c5cc5b 100644
+--- a/Tailspin.SpaceGame.Web/Views/Home/Index.cshtml
++++ b/Tailspin.SpaceGame.Web/Views/Home/Index.cshtml
+@@ -5,7 +5,7 @@
+ <section class="intro">
+     <div class="container">
+         <img class="title" src="/images/space-game-title.svg" alt="Space Game">
+-        <p>Welcome to the oficial Space Game site!!!</p>
++        <p>Welcome to the official Space Game site!!!</p>
+     </div>
+ </section>
+ <section class="download">
+@@ -267,4 +267,4 @@
+             </div>
+         </div>
+     </div>
+-</div>
+\ No newline at end of file
++</div>
